@@ -1,1 +1,2 @@
-profile: common
+server:
+    port: 80
